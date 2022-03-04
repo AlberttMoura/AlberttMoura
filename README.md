@@ -1,7 +1,9 @@
-### Olá! eu sou Alberto Moura.
+### Hi, there! I'm Alberto Moura.
 
-💻Desenvolvedor WEB FullStack em formação
+💻Junior Full Stack Developer
 
-📚Estudante de Engenharia da Computação
+📚Computer Engineering Undergraduate
+
+👨🏻‍💻 Interested in Software Development
 
 🔗LinkedIn: https://www.linkedin.com/in/alberto-moura-17a825192/
