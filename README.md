@@ -1,9 +1,9 @@
 ### Hi, there! I'm Alberto Moura.
 
-💻Junior Full Stack Developer
+💻Front End Developer
 
 📚Computer Engineering Undergraduate
 
-👨🏻‍💻 Interested in Software Development
+👨🏻‍💻 Interested in FullStack development
 
 🔗LinkedIn: https://www.linkedin.com/in/alberto-moura-17a825192/
