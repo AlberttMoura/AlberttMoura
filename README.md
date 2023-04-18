@@ -4,6 +4,6 @@
 
 📚Computer Engineering Undergraduate
 
-👨🏻‍💻 Interested in FullStack development
+👨🏻‍💻 Interested in DevOps
 
 🔗LinkedIn: https://www.linkedin.com/in/alberto-moura-17a825192/
